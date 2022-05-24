@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://qalab.pl.tivixlabs.com/",
+    "chromeWebSecurity": false,
+    "retries": {
+        "runMode": 2,
+        "openMode": 3
+    }
+
+}

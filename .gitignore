@@ -1,0 +1,5 @@
+/node_modules/
+/cypress/cypress
+*.DS_store
+*.mp4
+*.png
